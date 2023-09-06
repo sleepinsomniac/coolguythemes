@@ -1,0 +1,41 @@
+/**
+ * @name adultswim
+ * @description A cool basic adult swim themed theme for your nightly discord chatting
+ * @author logistic sleepinsomniac
+ * @version 1.0.0
+ * @authorId 278543574059057154
+ * @invite Jx3TjNS
+ * @donate https://www.paypal.me/MircoWittrien
+ * @patreon https://www.patreon.com/MircoWittrien
+ * @website https://mwittrien.github.io/
+ * @source https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/DiscordRecolor/
+ * @BDEditor DiscordRecolor
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Adult+Swim:wght@100;300;400;500;700&display=swap');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
+
+:root {
+  --accentcolor: 0,0,0;
+  --accentcolor2: 255,255,255;
+  --linkcolor: 255,255,255;
+  --mentioncolor: 0,0,0;
+  --textbrightest: 255,255,255;
+  --textbrighter: 255,255,255;
+  --textbright: 255,255,255;
+  --textdark: 255,255,255;
+  --textdarker: 255,255,255;
+  --textdarkest: 255,255,255;
+  --font: Adult Swim;
+  --backgroundaccent: 0,0,0;
+  --backgroundprimary: 0,0,0;
+  --backgroundsecondary: 0,0,0;
+  --backgroundsecondaryalt: 0,0,0;
+  --backgroundtertiary: 0,0,0;
+  --backgroundfloating: 0,0,0;
+  --settingsicons: 1;
+}
+
+/* Any custom CSS below here */
+
+
